@@ -165,7 +165,7 @@ body {
   /* Styl dla galerii */
   .galeria {
     display: flex;
-    justify-content: space-between;
+    justify-content: pace-evenly;
   }
   
   .galeria img {
